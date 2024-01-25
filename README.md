@@ -18,9 +18,10 @@
     <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
- Atualmente tenho 19 Anos, Sou formado em Gestão da Tecnologia da Informação, desde muito cedo aos 5 anos tive muito contato com a tecnologia e por esse motivo eu tenho uma grande paixão pela área, aos 13 anos tive meu primeiro contato com a programação em um curso de Web design em minha cidade, onde tive contato com as tecnologias Html, Css, JavaScript, PHP, AngularJS.<br>
+ Tenho 19 anos e sou graduado em Gestão da Tecnologia da Informação. Desde a infância, aos 5 anos, estive imerso no mundo da tecnologia, cultivando uma profunda paixão pela área. Aos 13 anos, iniciei meu percurso na programação através de um curso de Web Design em minha cidade, onde tive a oportunidade de explorar tecnologias como HTML, CSS, JavaScript, PHP e AngularJS.
 
- Já aos 17 anos eu entrei na faculdade de Gestão de T.I aonde eu obtive conhecimentos nas áreas de Sistemas de Informações, Banco de Dados, Rede de Computadores, Segurança da informação, Engenharia de Software e Programação.<br>
- Como acadêmico tive oportunidade de Estágiar na Secretaria de Justiça e Segurança Pública do Estado do Amapá, onde eu tive contato com área de redes, suporte tecnico.<br>
- E por conta de estudar programação na faculdade me Surgiu o interesse em estudar Sobre desenvolvimento de Aplicativos Móveis para Multiplataformas, desde Novembro de 2023 estou estudando React native, onde desde esse tempo venho estudando Lógica de Programação, JavaScript, HTML, CSS, e NodeJS.<br>
- Atualmente Estou em busca de Novas Oportunidades com o Objetivo de ajudar a empresa e me ajudar em minha evolução profissional.
+Aos 17 anos, ingressei na faculdade de Gestão de T.I., adquirindo conhecimentos em Sistemas de Informações, Banco de Dados, Rede de Computadores, Segurança da Informação, Engenharia de Software e Programação. Durante meu período acadêmico, realizei estágio na Secretaria de Justiça e Segurança Pública do Estado do Amapá, onde pude aprimorar habilidades na área de redes e suporte técnico.
+
+Minha trajetória acadêmica despertou o interesse pelo desenvolvimento de aplicativos móveis para multiplataformas. Desde novembro de 2023, venho dedicando meu tempo ao estudo de React Native, aprimorando meus conhecimentos em lógica de programação, JavaScript, HTML, CSS e NodeJS.
+
+Atualmente, estou em busca de novas oportunidades profissionais com o objetivo de contribuir para o crescimento da empresa e promover minha evolução profissional.
